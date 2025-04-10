@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(44, 41, 41);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(247, 220, 18);
+    text-align: start;
+}
+
+p{
+    color: white;
+    text-align: justify;
+    width: 35%;
+}
